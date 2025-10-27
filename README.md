@@ -18,7 +18,7 @@ S3 Bucket (originals/)  →  EventBridge/S3 Trigger  →  Lambda (Node.js + Shar
 * **IAM Role**: Provides Lambda permission to access S3 and CloudWatch.
 * **CloudWatch Logs**: Monitors Lambda execution.
 
-*Screenshot: High-level architecture diagram*
+![](/Image-resizer-img/Architecture-img.png)
 
 ---
 
